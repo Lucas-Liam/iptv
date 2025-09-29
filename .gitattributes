@@ -3,3 +3,4 @@ nginxx filter=lfs diff=lfs merge=lfs -text
 *.x filter=lfs diff=lfs merge=lfs -text
 *.linux filter=lfs diff=lfs merge=lfs -text
 *.zerotier-one filter=lfs diff=lfs merge=lfs -text
+*.speedtest filter=lfs diff=lfs merge=lfs -text
