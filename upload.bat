@@ -8,3 +8,4 @@ git add .
 git commit -m "LFS"
 git push origin main
 
+pause
