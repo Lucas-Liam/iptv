@@ -11,3 +11,4 @@ nginxx filter=lfs diff=lfs merge=lfs -text
 *.oob filter=lfs diff=lfs merge=lfs -text
 *..bin filter=lfs diff=lfs merge=lfs -text
 *.tgz filter=lfs diff=lfs merge=lfs -text
+*.*.tgz filter=lfs diff=lfs merge=lfs -text
